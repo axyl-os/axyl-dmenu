@@ -1,7 +1,7 @@
 # Maintainer: Gabriel Matthews <axyl.os.linux@gmail.com>
 
 pkgname=axyl-dmenu-git
-pkgver=5.0.r1.f83128a
+pkgver=5.0.r2.74835c7
 pkgrel=1
 pkgdesc="Command/Application Launcher for Axyl OS"
 arch=('x86_64')
